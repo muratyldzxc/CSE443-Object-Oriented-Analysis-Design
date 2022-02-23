@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"matrix","l":"CalculateDFTQuarterWithSemaphore"},{"p":"matrix","l":"CalculateDFTQuarterWithSyncronized"},{"p":"matrix","l":"ComplexNumber"},{"p":"demo","l":"Demo"},{"p":"matrix","l":"Matrix"},{"p":"synchronizationBarrier","l":"MyBarrier"}];updateSearchResults();
